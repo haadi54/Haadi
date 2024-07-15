@@ -46,7 +46,7 @@ def iAmMethod20Ua():
 ##########_____________--------#####
 def iAmMethod3Ua():
 	a = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+'.'+str(random.randint(11,77)) +";FBBV/"+str(random.randint(11111111,99999999))+";"
-	b = "[[FBAN/FB4A;FBAV/189.0.0.35.192;FBBV/144693354;FBDM/{density=2.5,width=720,height=1440};FBLC/en_US;FBCR/Net10 Wireless;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-G398F;FBSV/11.0;nullFBCA/armeabi-v7a:armeabi;]"
+	b = "[[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636728;FBDM/{density=4.0,width=1440,height=2699};FBLC/en_US;FBCR/Net10 Wireless;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-G973U;FBSV/11.0;nullFBCA/armeabi-v7a:armeabi;]"
 	ua = a+b
 	return ua
 ##########
